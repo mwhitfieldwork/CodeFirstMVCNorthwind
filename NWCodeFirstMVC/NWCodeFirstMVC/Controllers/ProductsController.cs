@@ -45,7 +45,7 @@ namespace NWCodeFirstMVC.Controllers
             Category model = new Category();
             model.Initialize(_dc);
 
-            return View(model); 
+            return View(model);
         }
     }
 }
