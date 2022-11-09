@@ -17,6 +17,8 @@ C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVCSacffold\bin\Deb
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVCSacffold\bin\Debug\net6.0\NWCodeFirstMVCSacffold.dll
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVCSacffold\bin\Debug\net6.0\NWCodeFirstMVCSacffold.pdb
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVCSacffold\obj\Debug\net6.0\NWCodeFirstMVCSacffold.csproj.AssemblyReference.cache
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVCSacffold\obj\Debug\net6.0\NWCodeFirstMVCSacffold.Properties.Resources.resources
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVCSacffold\obj\Debug\net6.0\NWCodeFirstMVCSacffold.csproj.GenerateResource.cache
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVCSacffold\obj\Debug\net6.0\NWCodeFirstMVCSacffold.GeneratedMSBuildEditorConfig.editorconfig
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVCSacffold\obj\Debug\net6.0\NWCodeFirstMVCSacffold.AssemblyInfoInputs.cache
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVCSacffold\obj\Debug\net6.0\NWCodeFirstMVCSacffold.AssemblyInfo.cs

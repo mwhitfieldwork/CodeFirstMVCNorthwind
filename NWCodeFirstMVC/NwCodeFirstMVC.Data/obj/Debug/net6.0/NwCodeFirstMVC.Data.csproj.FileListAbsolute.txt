@@ -12,17 +12,3 @@ C:\Practice\BackEnd\test\NWCodeFirstMVC\NwCodeFirstMVC.Data\obj\Debug\net6.0\ref
 C:\Practice\BackEnd\test\NWCodeFirstMVC\NwCodeFirstMVC.Data\obj\Debug\net6.0\NwCodeFirstMVC.Data.pdb
 C:\Practice\BackEnd\test\NWCodeFirstMVC\NwCodeFirstMVC.Data\obj\Debug\net6.0\NwCodeFirstMVC.Data.genruntimeconfig.cache
 C:\Practice\BackEnd\test\NWCodeFirstMVC\NwCodeFirstMVC.Data\obj\Debug\net6.0\ref\NwCodeFirstMVC.Data.dll
-C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NwCodeFirstMVC.Data\bin\Debug\net6.0\NwCodeFirstMVC.Data.deps.json
-C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NwCodeFirstMVC.Data\bin\Debug\net6.0\NwCodeFirstMVC.Data.runtimeconfig.json
-C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NwCodeFirstMVC.Data\bin\Debug\net6.0\NwCodeFirstMVC.Data.dll
-C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NwCodeFirstMVC.Data\bin\Debug\net6.0\NwCodeFirstMVC.Data.pdb
-C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NwCodeFirstMVC.Data\obj\Debug\net6.0\NwCodeFirstMVC.Data.csproj.AssemblyReference.cache
-C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NwCodeFirstMVC.Data\obj\Debug\net6.0\NwCodeFirstMVC.Data.GeneratedMSBuildEditorConfig.editorconfig
-C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NwCodeFirstMVC.Data\obj\Debug\net6.0\NwCodeFirstMVC.Data.AssemblyInfoInputs.cache
-C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NwCodeFirstMVC.Data\obj\Debug\net6.0\NwCodeFirstMVC.Data.AssemblyInfo.cs
-C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NwCodeFirstMVC.Data\obj\Debug\net6.0\NwCodeFirstMVC.Data.csproj.CoreCompileInputs.cache
-C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NwCodeFirstMVC.Data\obj\Debug\net6.0\NwCodeFirstMVC.Data.dll
-C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NwCodeFirstMVC.Data\obj\Debug\net6.0\refint\NwCodeFirstMVC.Data.dll
-C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NwCodeFirstMVC.Data\obj\Debug\net6.0\NwCodeFirstMVC.Data.pdb
-C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NwCodeFirstMVC.Data\obj\Debug\net6.0\NwCodeFirstMVC.Data.genruntimeconfig.cache
-C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NwCodeFirstMVC.Data\obj\Debug\net6.0\ref\NwCodeFirstMVC.Data.dll

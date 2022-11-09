@@ -99,6 +99,7 @@ C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -107,6 +108,7 @@ C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
@@ -314,13 +316,16 @@ C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\NWCodeFirstMVC.Application.dll
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\NWCodeFirstMVCSacffold.dll
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\NWCodeFirstMVC.Application.pdb
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\NWCodeFirstMVCSacffold.pdb
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\obj\Debug\net6.0\NWCodeFirstMVC.csproj.AssemblyReference.cache
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\obj\Debug\net6.0\NWCodeFirstMVC.GeneratedMSBuildEditorConfig.editorconfig
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\obj\Debug\net6.0\NWCodeFirstMVC.AssemblyInfoInputs.cache
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\obj\Debug\net6.0\NWCodeFirstMVC.AssemblyInfo.cs
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\obj\Debug\net6.0\NWCodeFirstMVC.csproj.CoreCompileInputs.cache
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\obj\Debug\net6.0\NWCodeFirstMVC.MvcApplicationPartsAssemblyInfo.cs
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\obj\Debug\net6.0\NWCodeFirstMVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\obj\Debug\net6.0\NWCodeFirstMVC.RazorAssemblyInfo.cache
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\obj\Debug\net6.0\NWCodeFirstMVC.RazorAssemblyInfo.cs
@@ -335,3 +340,5 @@ C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\obj\Debug\net6.
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\obj\Debug\net6.0\NWCodeFirstMVC.pdb
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\obj\Debug\net6.0\NWCodeFirstMVC.genruntimeconfig.cache
 C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\obj\Debug\net6.0\ref\NWCodeFirstMVC.dll
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\NWCodeFirstMVC.Infrastructure.dll
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\NWCodeFirstMVC.Infrastructure.pdb
