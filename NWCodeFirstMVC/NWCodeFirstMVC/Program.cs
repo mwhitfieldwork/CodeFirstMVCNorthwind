@@ -1,10 +1,13 @@
 using Microsoft.EntityFrameworkCore;
+using NWCodeFirstMVC.Application.Contracts;
+using NWCodeFirstMVC.Infrastructure.Services;
 using NWCodeFirstMVCSacffold.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<IProductService, ProductsService>();
 
 builder.Services.AddDbContext<northwindContext>(opt =>
 {

@@ -1,0 +1,15 @@
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC.Application\bin\Debug\net6.0\NWCodeFirstMVC.Application.deps.json
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC.Application\bin\Debug\net6.0\NWCodeFirstMVC.Application.dll
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC.Application\bin\Debug\net6.0\NWCodeFirstMVC.Application.pdb
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC.Application\bin\Debug\net6.0\NWCodeFirstMVCSacffold.dll
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC.Application\bin\Debug\net6.0\NWCodeFirstMVCSacffold.pdb
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC.Application\obj\Debug\net6.0\NWCodeFirstMVC.Application.csproj.AssemblyReference.cache
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC.Application\obj\Debug\net6.0\NWCodeFirstMVC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC.Application\obj\Debug\net6.0\NWCodeFirstMVC.Application.AssemblyInfoInputs.cache
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC.Application\obj\Debug\net6.0\NWCodeFirstMVC.Application.AssemblyInfo.cs
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC.Application\obj\Debug\net6.0\NWCodeFirstMVC.Application.csproj.CoreCompileInputs.cache
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC.Application\obj\Debug\net6.0\NWCodeFirstMVC.Application.csproj.CopyComplete
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC.Application\obj\Debug\net6.0\NWCodeFirstMVC.Application.dll
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC.Application\obj\Debug\net6.0\refint\NWCodeFirstMVC.Application.dll
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC.Application\obj\Debug\net6.0\NWCodeFirstMVC.Application.pdb
+C:\Practice\BackEnd\NWCodeFirstMVC\NWCodeFirstMVC\NWCodeFirstMVC.Application\obj\Debug\net6.0\ref\NWCodeFirstMVC.Application.dll

@@ -1,37 +1,23 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using NWCodeFirstMVCSacffold.Models;
+using NWCodeFirstMVC.Application.Contracts;
 
 namespace NWCodeFirstMVC.Controllers
 {
     public class ProductsController : Controller
     {
+        private readonly IProductService _productService;
         private readonly northwindContext _dc;
-        public ProductsController(northwindContext dc)
+        public ProductsController(IProductService productService, northwindContext dc)
         {
+            _productService = productService;
             _dc = dc;
         }
 
         [HttpGet]
         public JsonResult GetAllProducts()
         {
-            IQueryable<Product> products = _dc.Products;
-
-            var results = products.Select(x =>
-            new
-            {
-                productId = x.ProductId,
-                ProductName = x.ProductName,
-                SupplierId = x.SupplierId,
-                CategoryId = x.CategoryId,
-                QuantityPerUnit = x.QuantityPerUnit,
-                UnitPrice = x.UnitPrice,
-                UnitsInStock = x.UnitsInStock,
-                UnitsOnOrder = x.UnitsOnOrder,
-                ReorderLevel = x.ReorderLevel,
-                Discontinued = x.Discontinued
-            }).ToList();
-
-            return Json(results);
+            return _productService.GetAllProducts();
         }
 
         public ActionResult Index()
