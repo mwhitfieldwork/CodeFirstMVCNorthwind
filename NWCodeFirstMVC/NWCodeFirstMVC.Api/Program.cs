@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using NWCodeFirstMVC.App.Contracts;
 using NWCodeFirstMVC.Infrastructure.Services;
 using NWCodeFirstMVC.Domain.Models;
+using Microsoft.AspNetCore.SpaServices;
 using NWCodeFirstMVC.Domain;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,7 +14,7 @@ builder.Services.AddControllers();
 builder.Services.AddDbContext<northwindContext>(opt =>
 {
     var configuration = builder.Configuration;
-    var connectionString = configuration.GetConnectionString("Default");
+    var connectionString = configuration.GetConnectionString("Production");
     opt.UseSqlServer(connectionString);
 });
 
@@ -46,5 +47,12 @@ app.UseEndpoints(endpoints =>
 {
     endpoints.MapControllers();
 });
+
+
+app.UseSpa(spa =>
+{
+    spa.Options.SourcePath = "clientapp";
+});
+
 
 app.Run();

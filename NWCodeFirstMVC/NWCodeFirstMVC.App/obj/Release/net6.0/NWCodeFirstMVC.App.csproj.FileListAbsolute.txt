@@ -1,0 +1,15 @@
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.App\bin\Release\net6.0\NWCodeFirstMVC.App.deps.json
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.App\bin\Release\net6.0\NWCodeFirstMVC.App.dll
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.App\bin\Release\net6.0\NWCodeFirstMVC.App.pdb
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.App\bin\Release\net6.0\NWCodeFirstMVC.Domain.dll
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.App\bin\Release\net6.0\NWCodeFirstMVC.Domain.pdb
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.App\obj\Release\net6.0\NWCodeFirstMVC.App.csproj.AssemblyReference.cache
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.App\obj\Release\net6.0\NWCodeFirstMVC.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.App\obj\Release\net6.0\NWCodeFirstMVC.App.AssemblyInfoInputs.cache
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.App\obj\Release\net6.0\NWCodeFirstMVC.App.AssemblyInfo.cs
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.App\obj\Release\net6.0\NWCodeFirstMVC.App.csproj.CoreCompileInputs.cache
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.App\obj\Release\net6.0\NWCodeFirstMVC.App.csproj.CopyComplete
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.App\obj\Release\net6.0\NWCodeFirstMVC.App.dll
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.App\obj\Release\net6.0\refint\NWCodeFirstMVC.App.dll
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.App\obj\Release\net6.0\NWCodeFirstMVC.App.pdb
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.App\obj\Release\net6.0\ref\NWCodeFirstMVC.App.dll

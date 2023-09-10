@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\api</_PublishTargetUrl>
+    <History>False|2023-09-08T00:57:36.0358789Z;False|2023-09-07T19:56:48.2371370-05:00;True|2023-09-07T16:17:46.2242205-05:00;True|2023-09-07T16:06:59.3938422-05:00;True|2023-09-06T19:20:29.5631686-05:00;True|2023-09-05T14:02:20.6054122-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

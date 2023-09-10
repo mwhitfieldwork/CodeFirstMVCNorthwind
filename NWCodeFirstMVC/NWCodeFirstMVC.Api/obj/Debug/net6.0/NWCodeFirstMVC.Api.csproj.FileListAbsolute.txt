@@ -277,3 +277,7 @@ C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFi
 C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.Api\obj\Debug\net6.0\NWCodeFirstMVC.Api.pdb
 C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.Api\obj\Debug\net6.0\NWCodeFirstMVC.Api.genruntimeconfig.cache
 C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.Api\obj\Debug\net6.0\ref\NWCodeFirstMVC.Api.dll
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.Api\bin\Debug\net6.0\appsettings.Production.json
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.Api\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.Api\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.Api\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll

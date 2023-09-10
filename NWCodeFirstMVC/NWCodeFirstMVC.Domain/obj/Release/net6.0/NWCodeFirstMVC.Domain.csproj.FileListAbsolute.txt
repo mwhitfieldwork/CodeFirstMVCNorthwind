@@ -1,0 +1,14 @@
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.Domain\bin\Release\net6.0\NWCodeFirstMVC.Domain.deps.json
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.Domain\bin\Release\net6.0\NWCodeFirstMVC.Domain.runtimeconfig.json
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.Domain\bin\Release\net6.0\NWCodeFirstMVC.Domain.dll
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.Domain\bin\Release\net6.0\NWCodeFirstMVC.Domain.pdb
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.Domain\obj\Release\net6.0\NWCodeFirstMVC.Domain.csproj.AssemblyReference.cache
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.Domain\obj\Release\net6.0\NWCodeFirstMVC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.Domain\obj\Release\net6.0\NWCodeFirstMVC.Domain.AssemblyInfoInputs.cache
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.Domain\obj\Release\net6.0\NWCodeFirstMVC.Domain.AssemblyInfo.cs
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.Domain\obj\Release\net6.0\NWCodeFirstMVC.Domain.csproj.CoreCompileInputs.cache
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.Domain\obj\Release\net6.0\NWCodeFirstMVC.Domain.dll
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.Domain\obj\Release\net6.0\refint\NWCodeFirstMVC.Domain.dll
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.Domain\obj\Release\net6.0\NWCodeFirstMVC.Domain.pdb
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.Domain\obj\Release\net6.0\NWCodeFirstMVC.Domain.genruntimeconfig.cache
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC.Domain\obj\Release\net6.0\ref\NWCodeFirstMVC.Domain.dll
