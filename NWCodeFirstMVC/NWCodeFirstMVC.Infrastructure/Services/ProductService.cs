@@ -46,7 +46,8 @@ namespace NWCodeFirstMVC.Infrastructure.Services
                 UnitsInStock = x.UnitsInStock,
                 UnitsOnOrder = x.UnitsOnOrder,
                 ReorderLevel = x.ReorderLevel,
-                Discontinued = x.Discontinued
+                Discontinued = x.Discontinued,
+                IsDeleted = x.IsDeleted
             }).ToList();
 
             return results;
