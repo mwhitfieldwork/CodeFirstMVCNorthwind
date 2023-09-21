@@ -71,25 +71,25 @@ namespace NWCodeFirstMVC.Api.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateProduct(int id, Product updateProduct)
+        public async Task<IActionResult> UpdateProduct(int id, Product updateProductDto)
         {
-            if(id != updateProduct.ProductId)
+            if(id != updateProductDto.ProductId)
             {
                 return BadRequest("Invalid ID");
             }
 
-           if(updateProduct == null)
+           if(updateProductDto == null)
             {
                 return NotFound();
             }
-            
+            var product = mapper.Map<Product>(updateProductDto);
             try
             {
-              await _productService.UpdateAsync(updateProduct);
+              await _productService.UpdateAsync(product);
             }
             catch(DbUpdateConcurrencyException)
             {
-                if(updateProduct.ProductId != id)
+                if(product.ProductId != id)
                 {
                     return NotFound();
                 }
