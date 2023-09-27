@@ -279,3 +279,4 @@ C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFi
 C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC\obj\Debug\net6.0\ref\NWCodeFirstMVC.dll
 C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\AutoMapper.dll
 C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Practice\BackEnd\NWCodeFirstMVC\CodeFirstMVCNorthwind\NWCodeFirstMVC\NWCodeFirstMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

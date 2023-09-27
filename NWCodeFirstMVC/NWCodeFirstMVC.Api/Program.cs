@@ -7,6 +7,7 @@ using NLog;
 using NuGet.Protocol.Plugins;
 using NWCodeFirstMVC.Api.Configurations;
 using AutoMapper;
+using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,6 +21,10 @@ builder.Services.AddDbContext<northwindContext>(opt =>
     var connectionString = configuration.GetConnectionString("Default");
     opt.UseSqlServer(connectionString);
 });
+
+builder.Services.AddIdentityCore<IdentityUser>()
+    .AddRoles<IdentityRole>()
+    .AddEntityFrameworkStores<northwindContext>();
 
 builder.Services.AddCors(options =>
 {

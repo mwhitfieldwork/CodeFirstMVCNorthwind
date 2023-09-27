@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.0" />
     <PackageReference Include="NLog.Web.AspNetCore" Version="5.3.4" />
     <PackageReference Include="Serilog.AspNetCore" Version="5.0.0" />
     <PackageReference Include="Serilog.Expressions" Version="3.3.0" />
@@ -21,6 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\NWCodeFirstMVC.App\NWCodeFirstMVC.App.csproj" />
+    <ProjectReference Include="..\NwCodeFirstMVC.Data\NwCodeFirstMVC.Data.csproj" />
     <ProjectReference Include="..\NWCodeFirstMVC.Domain\NWCodeFirstMVC.Domain.csproj" />
     <ProjectReference Include="..\NWCodeFirstMVC.Infrastructure\NWCodeFirstMVC.Infrastructure.csproj" />
   </ItemGroup>

@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace NWCodeFirstMVC.Domain.Models
 {
-    public partial class northwindContext : DbContext
+    public partial class northwindContext : IdentityDbContext<IdentityUser>
     {
         public northwindContext()
         {
